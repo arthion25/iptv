@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal History (México)" tvg-logo="" group-title="television",Canal History (México)
+http://23.237.0.58:25461/banana/pelishd/47
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Fox" tvg-logo="" group-title="television",Canal Fox
+http://23.237.0.58:25461/banana/pelishd/40
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Animal Planet (México)" tvg-logo="" group-title="television",Canal Animal Planet (México)
+http://23.237.0.58:25461/banana/pelishd/71
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cine Sony" tvg-logo="" group-title="television",Canal Cine Sony
+http://23.237.0.58:25461/banana/pelishd/59
